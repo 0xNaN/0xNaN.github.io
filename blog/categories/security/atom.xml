@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[0xNaN]]></title>
-  <link href="http://0xNaN.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: security | 0xNaN]]></title>
+  <link href="http://0xNaN.github.io/blog/categories/security/atom.xml" rel="self"/>
   <link href="http://0xNaN.github.io/"/>
   <updated>2013-10-13T21:50:24+02:00</updated>
   <id>http://0xNaN.github.io/</id>
