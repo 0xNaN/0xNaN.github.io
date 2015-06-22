@@ -4,7 +4,7 @@
   <title><![CDATA[Category: security | 0xNaN]]></title>
   <link href="http://0xNaN.github.io/blog/categories/security/atom.xml" rel="self"/>
   <link href="http://0xNaN.github.io/"/>
-  <updated>2013-10-13T22:17:57+02:00</updated>
+  <updated>2015-06-11T00:16:15+02:00</updated>
   <id>http://0xNaN.github.io/</id>
   <author>
     <name><![CDATA[NaN]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Two words about security]]></title>
-    <link href="http://0xNaN.github.ioblog/2013/10/12/two-words-about-security/"/>
+    <link href="http://0xNaN.github.io/blog/2013/10/12/two-words-about-security/"/>
     <updated>2013-10-12T20:06:00+02:00</updated>
-    <id>http://0xNaN.github.ioblog/2013/10/12/two-words-about-security</id>
+    <id>http://0xNaN.github.io/blog/2013/10/12/two-words-about-security</id>
     <content type="html"><![CDATA[<p>Few days ago I bought an item from a <em>famous</em> online shop.<br />
 This site provides a simple game that allows to win points, which afterwards the users can transform to coupons.<br />
 It consist in a simple animation which shift 12 baskets from right to the left: the user must shoots a ball and hit the center of the basket.  <!--More -->
