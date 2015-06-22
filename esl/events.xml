@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="events.xsl"?>
+<events>
+    <event date="2015-06-22">
+        <action type="reading">Tuple Space and Java Spaces</action>
+        <references>
+            <reference type="source" href="https://en.wikipedia.org/wiki/Tuple_space#JavaSpaces" />
+            <reference type="source" href="http://www.oracle.com/technetwork/articles/javase/javaspaces-140665.html"/>
+        </references>
+        <tags>
+            <tag>Java</tag>
+            <tag>Blackboard</tag>
+            <tag>Distributed</tag>
+        </tags>
+    </event>
+    <event date="2015-06-22">
+        <action type="reading">
+            Blackboards section of "The Pragmatic Programmer"
+        </action>
+        <tags>
+            <tag>Book</tag>
+        </tags>
+    </event>
+    <event date="2015-06-21">
+        <action type="research">
+            What if the init process calls a clone() with CLONE_PARENT?..Nothing :) Linux Kernel (obviously)
+            handles this
+        </action>
+        <references>
+            <reference type="source" href="https://github.com/torvalds/linux/blob/de182468d1bb726198abaab315820542425270b7/kernel/fork.c#L1276"/>
+            <reference type="source" href="https://www.cl.cam.ac.uk/cgi-bin/manpage?2+clone"/>
+        </references>
+        <tags>
+            <tag>Kernel</tag>
+            <tag>Linux</tag>
+        </tags>
+    </event>
+    <event date="2015-06-21">
+        <action type="reading">
+            Persistence Context propagation and Extended Persistence Context
+        </action>
+        <references>
+            <reference type="source" href="https://weblogs.java.net/blog/ss141213/archive/2006/10/persistence_con.html"/>
+            <reference type="source" href="http://www.adam-bien.com/roller/abien/entry/building_perfect_anti_facades_almost" />
+        </references>
+        <tags>
+            <tag>JPA</tag>
+            <tag>EJB</tag>
+        </tags>
+    </event>
+    <event date="2015-06-21">
+        <action type="reading">
+            Little introduction on Relationship with JPA
+        </action>
+        <references>
+            <reference type="source" href="http://blog.jbaysolutions.com/2011/09/19/jpa-2-relationships-onetomany/"/>
+        </references>
+        <tags>
+            <tag>JPA</tag>
+        </tags>
+    </event>
+</events>
