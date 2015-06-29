@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://0xNaN.github.io/blog/2015/06/10/clone-and-clone-parent-within-init/</loc>
-    <lastmod>2015-06-10T00:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://0xNaN.github.io/blog/2013/10/12/two-words-about-security/</loc>
+    <loc>http://0xnan.github.io/blog/2013/10/12/two-words-about-security/</loc>
     <lastmod>2013-10-12T20:06:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://0xNaN.github.io/blog/archives/</loc>
+    <loc>http://0xnan.github.io/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://0xNaN.github.io/archives/</loc>
+    <loc>http://0xnan.github.io/archives/</loc>
   </url>
   <url>
-    <loc>http://0xNaN.github.io/</loc>
+    <loc>http://0xnan.github.io/</loc>
   </url>
   <url>
-    <loc>http://0xNaN.github.io/about-me/</loc>
+    <loc>http://0xnan.github.io/about-me/</loc>
   </url>
   <url>
-    <loc>http://0xNaN.github.io/blog/categories/security/</loc>
+    <loc>http://0xnan.github.io/blog/categories/security/</loc>
   </url>
 </urlset>
