@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://0xnan.github.io/sitemap.xml 
