@@ -1,0 +1,23 @@
+---
+layout: layouts/base.liquid
+title: about
+---
+
+<div style="text-align:center; padding: 5px;">
+  <figure>
+    <img class="pure-img" src="/img/melow.jpg" />
+  </figure>
+</div>
+
+<p style='padding-right: 10px'>Hi there, </br>
+  I'm <b>Vincenzo di Cicco</b>, an italian Software Engineer.</br>
+  I'm currently based in Rome where I've just finished my master degree in Computer Engineering.
+  </br></br>
+  Currently I'm trying to surf the wave of Machine Learning, but you can likely find me reading about Web Security,
+  Distributed Systems, Programming in general or whatever seems cool to me (mainly reading through my
+  <a href="https://twitter.com/0xNaN/">Twitter Feed</a>).
+  </br></br>
+  Sometime I do <a href=#>Bughunting</a> and I was lucky enough to be listed in the <a href=#>Google Bughunting hall of fame</a>.
+
+  I've always said that I want to do a serious course on cooking, but still I've not done it :)
+</p>
