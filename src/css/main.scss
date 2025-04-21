@@ -118,3 +118,37 @@ ul {
         top: 0;
     }
 }
+
+.thinking-text {
+  text-align: center;
+
+  background: linear-gradient(to right, #000, #888, #fff, #888, #000);
+
+  background-size: 200% 100%;
+
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-position-x: 200%;
+
+  animation: gradient-move 6s linear forwards;
+  animation-iteration-count: 1;
+
+  opacity: 1;
+}
+
+@keyframes gradient-move {
+  0%, 66.66% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+  0% { background-position-x: 200%; }
+  33.33% { background-position-x: 0%; }
+  33.34% { background-position-x: 200%; }
+  66.66% { background-position-x: 0%; }
+  66.67% { background-position-x: 200%; }
+  100% { background-position-x: 0%; }
+}
