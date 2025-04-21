@@ -14,7 +14,7 @@ My interests range from pure <a href="https://github.com/0xNaN">Software Develop
     {% endunless %}
 
     {% for p in collections.post %}
-        <li style="list-style: ">
+        <li>
         <div class="pure-g">
             <div class="pure-u-1">
                 <span>{{ p.data.date | date: "%d-%b-%Y" }} - </span><a href="{{p.url | url}}">{{p.data.title}}</a>
