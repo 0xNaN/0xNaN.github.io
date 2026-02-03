@@ -13,3 +13,9 @@ npm run build
 ```
 npm run serve
 ```
+
+## Clean
+
+```
+npm run clean
+```
