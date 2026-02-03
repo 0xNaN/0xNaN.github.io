@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+  mode: 'production',
   entry: './src/script/main.js',
   output: {
     filename: 'main.js',
@@ -14,7 +15,18 @@ module.exports = {
        },
        {
         test: /\.s[ac]ss$/i,
-        use: ["style-loader","css-loader","sass-loader"],
+        use: [
+          "style-loader",
+          "css-loader",
+          {
+            loader: "sass-loader",
+            options: {
+              sassOptions: {
+                silenceDeprecations: ["legacy-js-api"],
+              },
+            },
+          },
+        ],
        },
        {
         test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
